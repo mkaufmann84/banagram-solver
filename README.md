@@ -1,4 +1,4 @@
-# Banagram-solver
+# Banagram-Solver
 
 This is meant to be used when playing a live game.
 
